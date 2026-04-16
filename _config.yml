@@ -1,16 +1,9 @@
 title: "My Course Website"
 theme: jekyll-theme-minimal
 description: >
-  Open-source projects, tools, and learning resources that apply business analytics,
-  data science, statistics, and programming to real-world problems in industry,
-  research, and education.
+   A collection of open-source packages and resources for industry and academic use.
 show_downloads: false
-
 github:
-  is_project_page: false
-
-color_mode:
-  default: light  # light | dark
-  toggle: true
+    is_project_page: true
 sass:
-  style: compressed
+   style: compressed

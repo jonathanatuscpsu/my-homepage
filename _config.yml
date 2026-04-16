@@ -1,0 +1,9 @@
+title: "My Course Website"
+theme: jekyll-theme-minimal
+description: >
+A collection of open-source packages and resources for industry and academic use.
+show_downloads: false
+github:
+is_project_page: true
+sass:
+style: compressed

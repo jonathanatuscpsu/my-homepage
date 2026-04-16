@@ -1,10 +1,10 @@
-# Welcome to My Course Website
+# Welcome to My Homepage
 
 
 ![Mixed Data Project](https://raw.githubusercontent.com/jonathanatuscpsu/data-analytics-project/main/mixed-data.png)
 
-
 This site hosts course materials and resources.
+
 # Course Information
 - Instructor: Your Name
 - Semester: Spring 2026
